@@ -42,12 +42,15 @@ html, body {
       color: #fff !important;
       text-transform: uppercase;
       text-decoration: none;
-      background: #2979FF;
+      background: rgb(39, 248, 133);
       padding: 20px;
-      border-radius: 5px;
+      border-radius: 15px;
       display: inline-block;
       border: none;
       width: 100%;
+  }
+  .button:hover {
+      background: rgb(60, 136, 94);
   }
   
   .mt-20 {
